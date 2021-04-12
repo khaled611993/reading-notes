@@ -14,3 +14,4 @@ But you can work harder, feel more self-confident, be more effective, and not le
 - ***Do not be upset*** **by active people**
 - ***Work hard*** **and remember when you are asleep someone is working hard**
 - ***Believe in yourself*** **and don't let failure disappoint you**
+- ***Do not say*** **i can not but say how i can do this**
