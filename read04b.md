@@ -5,7 +5,9 @@ Literally everywhere.
 ** what make computers are computers **
 Great ability to process things like Mathematical calculations فخ Virtual world simulation (for example)
 [more info](https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=2)
-to Design a thinking machine you need 4 tasks
+
+
+***To Design a thinking machine you need 4 tasks***
 * input
 * storage
 * processing
