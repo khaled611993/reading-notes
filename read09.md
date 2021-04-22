@@ -18,8 +18,8 @@ and then the results of that command ,in  the last comes the new prompt witting 
 
 # THE FILES.
 
-     Everything  in linux is a File .
-    the most common types of files:
+     Everything  in linux is a File  
+   ### the most common types of files:
 
 - file.exe - an executable file, or program.
 - file.txt - a plain text file.
