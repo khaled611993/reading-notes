@@ -16,9 +16,10 @@ and then the results of that command ,in  the last comes the new prompt witting 
 - (cd) usually will be run with a single command line argument which is the location we would like to change into
    - If  the command cd  runs without any arguments then it will always take you back to your home directory.
 
-# THE FILES.
+# THE FILES. 
+**Everything  in linux is a File** 
 
-     Everything  in linux is a File  
+      
    ### the most common types of files:
 
 - file.exe - an executable file, or program.
